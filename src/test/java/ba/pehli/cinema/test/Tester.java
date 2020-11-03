@@ -12,6 +12,7 @@ import org.springframework.social.twitter.api.Twitter;
 import org.springframework.social.twitter.api.Twitter;
 import org.springframework.social.twitter.api.Twitter;
 This is merge content!
+Hello there
 public class Tester {
 	
 

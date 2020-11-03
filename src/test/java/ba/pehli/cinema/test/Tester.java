@@ -11,6 +11,8 @@ import org.springframework.social.oauth2.OAuth2Operations;
 import org.springframework.social.twitter.api.Twitter;
 import org.springframework.social.twitter.api.Twitter;
 import org.springframework.social.twitter.api.Twitter;
+This is a merge content
+
 public class Tester {
 	
 

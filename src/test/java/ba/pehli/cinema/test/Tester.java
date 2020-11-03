@@ -13,7 +13,11 @@ import org.springframework.social.twitter.api.Twitter;
 import org.springframework.social.twitter.api.Twitter;
 This is merge content!
 Hello there
+<<<<<<< HEAD
 This is on the newBranch
+=======
+This is on the second branch
+>>>>>>> SecondBranch
 public class Tester {
 	
 

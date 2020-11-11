@@ -8,9 +8,8 @@ import org.springframework.social.facebook.connect.FacebookConnectionFactory;
 import org.springframework.social.oauth1.OAuth1Operations;
 import org.springframework.social.oauth2.AccessGrant;
 import org.springframework.social.oauth2.OAuth2Operations;
-import org.springframework.social.twitter.api.Twitter;
-import org.springframework.social.twitter.api.Twitter;
-import org.springframework.social.twitter.api.Twitter;
+
+
 public class Tester {
 	
 
